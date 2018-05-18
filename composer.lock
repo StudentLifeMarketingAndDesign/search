@@ -986,12 +986,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "018b5ff511ac48cfc981fee53d119886f655805a"
+                "reference": "3eefd61eef24ac3433b8f74eda3616d0a6ac0218"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/018b5ff511ac48cfc981fee53d119886f655805a",
-                "reference": "018b5ff511ac48cfc981fee53d119886f655805a",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/3eefd61eef24ac3433b8f74eda3616d0a6ac0218",
+                "reference": "3eefd61eef24ac3433b8f74eda3616d0a6ac0218",
                 "shasum": ""
             },
             "require": {
@@ -1005,6 +1005,7 @@
                 "md/rss-display": "*",
                 "md/silverstripe-amp": "dev-master",
                 "micschk/silverstripe-gridfieldsitetreebuttons": "*",
+                "nathancox/codeeditorfield": "*",
                 "nathancox/sortableuploadfield": "*",
                 "normann/gridfieldpaginatorwithshowall": "*",
                 "olliepop/fbpagefeed": "dev-master",
@@ -1044,7 +1045,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2018-05-01T20:21:33+00:00"
+            "time": "2018-05-17T17:46:57+00:00"
         },
         {
             "name": "md/rss-display",
@@ -1210,6 +1211,49 @@
                 "yml"
             ],
             "time": "2017-02-24T16:06:33+00:00"
+        },
+        {
+            "name": "nathancox/codeeditorfield",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/nathancox/silverstripe-codeeditorfield.git",
+                "reference": "22505f424c5780dcd751edd6bcde78beaa860dd0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/nathancox/silverstripe-codeeditorfield/zipball/22505f424c5780dcd751edd6bcde78beaa860dd0",
+                "reference": "22505f424c5780dcd751edd6bcde78beaa860dd0",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe/framework": "~3.1"
+            },
+            "type": "silverstripe-module",
+            "extra": {
+                "screenshots": [
+                    "http://static.flyingmonkey.co.nz/github/silverstripe-codeeditorfield/codeeditorfield-1.png"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Nathan Cox",
+                    "email": "me@nathan.net.nz"
+                }
+            ],
+            "description": "A field for editing code in the SilverStripe CMS using Ace Editor (http://ace.c9.io/)",
+            "homepage": "https://github.com/nathancox/silverstripe-codeeditorfield",
+            "keywords": [
+                "cms",
+                "form",
+                "formfield",
+                "silverstripe"
+            ],
+            "time": "2017-09-01T00:50:22+00:00"
         },
         {
             "name": "nathancox/sortableuploadfield",
