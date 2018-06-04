@@ -433,12 +433,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "239912a01c502f2d8f3c642eb2fcd4e58cf82a72"
+                "reference": "7fa8852adec06dabfbde1b028c4c9d9087558256"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/239912a01c502f2d8f3c642eb2fcd4e58cf82a72",
-                "reference": "239912a01c502f2d8f3c642eb2fcd4e58cf82a72",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/7fa8852adec06dabfbde1b028c4c9d9087558256",
+                "reference": "7fa8852adec06dabfbde1b028c4c9d9087558256",
                 "shasum": ""
             },
             "require": {
@@ -455,7 +455,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.4-dev"
+                    "dev-master": "1.5-dev"
                 }
             },
             "autoload": {
@@ -491,7 +491,7 @@
                 "uri",
                 "url"
             ],
-            "time": "2018-04-24T00:35:57+00:00"
+            "time": "2018-05-27T22:46:05+00:00"
         },
         {
             "name": "heyday/silverstripe-versioneddataobjects",
@@ -986,12 +986,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "3eefd61eef24ac3433b8f74eda3616d0a6ac0218"
+                "reference": "7a830596425d92d168062afe3d73a2c53637e258"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/3eefd61eef24ac3433b8f74eda3616d0a6ac0218",
-                "reference": "3eefd61eef24ac3433b8f74eda3616d0a6ac0218",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/7a830596425d92d168062afe3d73a2c53637e258",
+                "reference": "7a830596425d92d168062afe3d73a2c53637e258",
                 "shasum": ""
             },
             "require": {
@@ -1045,7 +1045,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2018-05-17T17:46:57+00:00"
+            "time": "2018-06-04T21:25:56+00:00"
         },
         {
             "name": "md/rss-display",
@@ -2011,12 +2011,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe-themes/silverstripe-simple.git",
-                "reference": "4d546a4e525c3ad3eff2c481b996adb7b8313cce"
+                "reference": "e4b3aa2d6cfa64ad7602f723d81ebde6c9c94c0c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe-themes/silverstripe-simple/zipball/4d546a4e525c3ad3eff2c481b996adb7b8313cce",
-                "reference": "4d546a4e525c3ad3eff2c481b996adb7b8313cce",
+                "url": "https://api.github.com/repos/silverstripe-themes/silverstripe-simple/zipball/e4b3aa2d6cfa64ad7602f723d81ebde6c9c94c0c",
+                "reference": "e4b3aa2d6cfa64ad7602f723d81ebde6c9c94c0c",
                 "shasum": ""
             },
             "require": {
@@ -2050,7 +2050,7 @@
                 "silverstripe",
                 "theme"
             ],
-            "time": "2018-03-21T12:34:28+00:00"
+            "time": "2018-05-30T00:13:44+00:00"
         },
         {
             "name": "silverstripe/activedirectory",
@@ -2869,12 +2869,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplepie/simplepie.git",
-                "reference": "46ba7a577b068a630613a8933bb8252753863a04"
+                "reference": "f1455566e48e8df284e6d01ca0a9157b74802c9b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplepie/simplepie/zipball/46ba7a577b068a630613a8933bb8252753863a04",
-                "reference": "46ba7a577b068a630613a8933bb8252753863a04",
+                "url": "https://api.github.com/repos/simplepie/simplepie/zipball/f1455566e48e8df284e6d01ca0a9157b74802c9b",
+                "reference": "f1455566e48e8df284e6d01ca0a9157b74802c9b",
                 "shasum": ""
             },
             "require": {
@@ -2921,7 +2921,7 @@
                 "feeds",
                 "rss"
             ],
-            "time": "2018-04-06T01:36:40+00:00"
+            "time": "2018-05-27T23:50:15+00:00"
         },
         {
             "name": "symbiote/silverstripe-addressable",
