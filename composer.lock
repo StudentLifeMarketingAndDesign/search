@@ -433,12 +433,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "7fa8852adec06dabfbde1b028c4c9d9087558256"
+                "reference": "58f6e264ef0e4107c8b3d15a9c2e653b2bce0b4d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/7fa8852adec06dabfbde1b028c4c9d9087558256",
-                "reference": "7fa8852adec06dabfbde1b028c4c9d9087558256",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/58f6e264ef0e4107c8b3d15a9c2e653b2bce0b4d",
+                "reference": "58f6e264ef0e4107c8b3d15a9c2e653b2bce0b4d",
                 "shasum": ""
             },
             "require": {
@@ -491,7 +491,7 @@
                 "uri",
                 "url"
             ],
-            "time": "2018-05-27T22:46:05+00:00"
+            "time": "2018-06-08T08:55:26+00:00"
         },
         {
             "name": "heyday/silverstripe-versioneddataobjects",
@@ -986,12 +986,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "7a830596425d92d168062afe3d73a2c53637e258"
+                "reference": "d339a1197dc65a5fdc597ff8e3e5b47ecaf9cb20"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/7a830596425d92d168062afe3d73a2c53637e258",
-                "reference": "7a830596425d92d168062afe3d73a2c53637e258",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/d339a1197dc65a5fdc597ff8e3e5b47ecaf9cb20",
+                "reference": "d339a1197dc65a5fdc597ff8e3e5b47ecaf9cb20",
                 "shasum": ""
             },
             "require": {
@@ -1045,7 +1045,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2018-06-04T21:25:56+00:00"
+            "time": "2018-06-08T15:29:07+00:00"
         },
         {
             "name": "md/rss-display",
